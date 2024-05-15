@@ -103,8 +103,9 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](o1.png)
-![alt text](o2.png)
+![Screenshot 2024-05-15 195655](https://github.com/SuryaSK46/Calc/assets/127716537/17b52554-1c3c-4128-aa4a-2c6ea1211eea)
+![Screenshot 2024-05-15 195814](https://github.com/SuryaSK46/Calc/assets/127716537/73ef2f4f-cc48-482e-969f-e92a501a9a9b)
+
 
 
 ## RESULT:
